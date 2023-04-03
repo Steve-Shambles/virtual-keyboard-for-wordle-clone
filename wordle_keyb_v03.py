@@ -4,6 +4,7 @@
     for delete and '=' for enter."""
 
 import tkinter as tk
+
 c_font = ('calibri', 10, 'bold')
 bg_col = 'steelblue'
 
